@@ -2,7 +2,7 @@
 -- ComputerCraft Downloader for Christmas NBS Songs
 
 local BASE_URL = "https://github.com/petdono/nbs-music/raw/refs/heads/main/christmas/"
-local DEST_DIR = "christmas"
+local DEST_DIR = "music/library"
 
 local songs = {
     "Cranium - Frosty the Snowman.nbs",
